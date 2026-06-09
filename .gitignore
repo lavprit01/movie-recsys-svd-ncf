@@ -1,12 +1,5 @@
-# Data files (too large for GitHub)
+# Data files (raw only — too large for GitHub)
 data/raw/
-data/processed/
-
-# Model checkpoints
-models/
-
-# Plots (generated files)
-plots/
 
 # Python
 __pycache__/
